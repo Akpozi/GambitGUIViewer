@@ -1,0 +1,5 @@
+2018-08-03 04:06
+1,Flow Rate,63647
+2,Flow Rate,15846
+3,Energy Flow Rate,37438
+4,Energy Flow Rate,47954
